@@ -1,0 +1,17 @@
+body{
+    background-color: azure;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h1{
+    text-align: center;
+    text-decoration-color: aqua;
+}
+img{
+    width: 100px;
+    height: 100px;
+}
+ul {
+    columns: 3;
+    -webkit-columns: 3;
+    -moz-columns: 3;
+}
